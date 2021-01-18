@@ -6,7 +6,7 @@
 
 ## Starting the App
 
-1. Download / Fork the project
+1. Download / Fork the project.
 2. Navigate to where the project is located.
 3. Open and run **runner.py** using Spyder or any python IDE.
 
